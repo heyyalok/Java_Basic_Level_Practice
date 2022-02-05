@@ -11,7 +11,7 @@ public class Forloop
         int i = scr.nextInt();
         System.out.println("input second number");
         int j = scr.nextInt();
-        System.out.println("the odd numbers between these are");
+        System.out.println("the odd numbers between "+i+ " and " +j+" are :");
 
         for (int a = i; a < j; a++)
         {
