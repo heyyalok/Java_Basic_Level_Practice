@@ -18,7 +18,6 @@ public class Forloop
 
             if (a % 2 != 0)
             {
-                //System.out.println("the odd numbers between these are");
                 System.out.println(a);
             }
         }
