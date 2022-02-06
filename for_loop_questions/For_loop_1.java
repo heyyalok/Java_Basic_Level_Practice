@@ -1,4 +1,4 @@
-// WAP to out put number form 1 to 10.
+// WAP to print number form 1 to 10.
 public class Forloop_1
 {
   public static void main(String []args)
