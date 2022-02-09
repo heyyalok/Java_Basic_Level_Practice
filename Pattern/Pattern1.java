@@ -1,6 +1,6 @@
 //package com.company;
 import java.util.Scanner;
-public class pattern
+public class pattern1
 {
     // Question_1
     public static void main (String[]args)
