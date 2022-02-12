@@ -16,7 +16,7 @@ public class V25PracticeSet
             {
                 System.out.print("*");
             }
-            System.out.print(" \n ");
+            System.out.print("\n");
         }
 
 
