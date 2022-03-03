@@ -3,7 +3,7 @@ public static void main(String[]args)
     {
     int [] array ={1,2,3,4,5,6,7,8,9};
     int length = array.length;
-    int n = Math.floorDiv(1,2);
+    int n = Math.floorDiv(l,2);
     int temp;
 
     for (int i = 0; i<n; i++)
