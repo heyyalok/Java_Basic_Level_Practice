@@ -1,3 +1,4 @@
+//1st approach
 public class Reversing_array{
 public static void main(String[]args)
     {
@@ -18,3 +19,18 @@ public static void main(String[]args)
     }
     }
   }
+//2nd approach
+public class array_itrating
+{
+    public static void main(String[]args)
+    {
+        int [] arr ={121,26,38,43,59,60,76,81,49,90};
+        //for (int i = 0; i<arr.length;i++)  // this can also be implimented
+        for (int i = arr.length-1;i>=0;i--)
+        {
+            //System.out.print(arr[arr.length-i-1]+",");// if  the loop is set to be increment then this will follow
+            System.out.print(arr[i]+",");
+            // this will give output in the form of array
+        }
+    }
+}
